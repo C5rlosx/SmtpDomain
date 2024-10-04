@@ -2,6 +2,7 @@
   "smtpdomains": {
 	"rediffmailpro.com": "smtp.rediffmailpro.com",
 	"tom.com": "smtp.tom.com",
+        "gmail.com": "smtp.gmail.com",
 	"mchsi.com": "mail.mediacombb.net",
 	"1and1.co.uk": "smtp.1and1.com",
 	"talktalk.net": "smtp.talktalk.net",
